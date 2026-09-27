@@ -1,0 +1,21 @@
+NEXT STEP AFTER THESE BASICS
+
+Once Python basics are comfortable:
+
+Python
+  -> import boto3
+  -> create AWS client/resource
+  -> call AWS API
+  -> receive dictionaries/lists
+  -> loop through resources
+  -> apply if conditions
+  -> automate actions
+
+Example future tasks:
+- list EC2 instances
+- find stopped instances
+- list S3 buckets
+- inspect CloudWatch information
+- automate tagging
+
+Do not jump to Boto3 until the Python logic used in this repository is comfortable.
